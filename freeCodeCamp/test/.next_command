@@ -326,3 +326,13 @@ ccd ..
 cd ..
 ls --color=auto
 mv website/ website-boilerplate
+ls --color=auto
+ls --color=auto
+ls --color=auto
+pwd
+ls --color=auto -l
+ls --color=auto -a
+ls --color=auto
+client/assets/images
+cd /workspace/project/
+ls --color=auto
