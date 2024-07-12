@@ -182,3 +182,5 @@ mv header.png [200~In which order should i learn these:
 Relational databases, data visualisation and data analysis with python
 mv header.png client/assets/images
 find -name header.png
+find footer.jpeg
+find -name footer.jpeg
