@@ -336,3 +336,4 @@ ls --color=auto
 client/assets/images
 cd /workspace/project/
 ls --color=auto
+cp --help
