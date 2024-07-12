@@ -107,3 +107,4 @@ cd .
 cd ..
 clear
 ls --color=auto
+rm background.jpg
