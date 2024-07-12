@@ -189,3 +189,4 @@ mv /images/footer.jpeg /client/assets/images
 mv /image.s/footer.jpeg /client/assets/images
 clear
 mv images/footer.jpeg client/assets/images/
+__vsc_prompt_cmd_original
