@@ -325,3 +325,4 @@ more README.md
 ccd ..
 cd ..
 ls --color=auto
+mv website/ website-boilerplate
