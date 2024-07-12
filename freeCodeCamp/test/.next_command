@@ -167,3 +167,5 @@ cd client/
 cd assets/
 cd images/
 cd ../../..
+ls --color=auto
+cd images/
