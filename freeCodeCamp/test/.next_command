@@ -192,3 +192,25 @@ mv images/footer.jpeg client/assets/images/
 __vsc_prompt_cmd_original
 find
 rmdir images/
+cd imahes
+cd images
+ls --color=auto
+cd ..
+rmdir -r images/
+rmdir -R images/
+cd images/
+cd ..
+rmdir --help
+rmdir -p images/
+cd images/
+rm background.jpg
+cd ..
+rmdir images/
+rm images/background.jpg
+rm images/background.jpeg
+rm images/background.jpg
+mkdir images
+cd images/
+touch background.jpg
+cd ..
+rm images/background.jpg
