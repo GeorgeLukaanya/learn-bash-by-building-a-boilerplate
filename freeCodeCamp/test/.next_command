@@ -337,3 +337,5 @@ client/assets/images
 cd /workspace/project/
 ls --color=auto
 cp --help
+find toms-website
+cp -r website-boilerplate/ toms-website
